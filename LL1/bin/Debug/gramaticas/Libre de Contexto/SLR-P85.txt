@@ -1,0 +1,7 @@
+S -> E
+E -> wT
+E -> xF
+T -> yT
+T -> z
+F -> yF
+F -> z

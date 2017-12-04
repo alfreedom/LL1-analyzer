@@ -1,0 +1,4 @@
+A->abcD | abCdE | x
+C -> Cc | y
+D -> d
+E -> e

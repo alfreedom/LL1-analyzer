@@ -1,0 +1,9 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\LL1\LL1\bin\Debug\LL1.exe.config
+c:\users\alfredo\documents\visual studio 2015\Projects\LL1\LL1\bin\Debug\LL1.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\LL1\LL1\bin\Debug\LL1.pdb
+c:\users\alfredo\documents\visual studio 2015\Projects\LL1\LL1\obj\Debug\LL1.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2015\Projects\LL1\LL1\obj\Debug\LL1.Form1.resources
+c:\users\alfredo\documents\visual studio 2015\Projects\LL1\LL1\obj\Debug\LL1.Properties.Resources.resources
+c:\users\alfredo\documents\visual studio 2015\Projects\LL1\LL1\obj\Debug\LL1.csproj.GenerateResource.Cache
+c:\users\alfredo\documents\visual studio 2015\Projects\LL1\LL1\obj\Debug\LL1.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\LL1\LL1\obj\Debug\LL1.pdb
